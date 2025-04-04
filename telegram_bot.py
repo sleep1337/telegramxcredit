@@ -684,7 +684,7 @@ def main():
     bot = CreditScoringBot()
     
     # Токен, полученный от BotFather
-    token = '7880641469:AAH7VjvljG0Pv4oS7r7_VPD41sfsg7cTaoY'
+    token = 'yourtoken_here'
     
     # Создаем приложение
     app = Application.builder().token(token).build()
